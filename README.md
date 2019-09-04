@@ -101,7 +101,7 @@ $ hexo d
 - 添加评论
 - 站点博文搜索
 
-详情请查看[Hexo使用Next主题的配置]([https://mpfly.github.io/2019/08/21/Hexo使用Next主题的配置/](https://mpfly.github.io/2019/08/21/Hexo%E4%BD%BF%E7%94%A8Next%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE/))
+详情请查看[Hexo使用Next主题的配置]([https://mpfly.github.io/2019/08/21/Hexo使用Next主题的配置/](https://mpfly.github.io/2019/08/21/Hexo%E4%BD%BF%E7%94%A8Next%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE/)
 
 
 
