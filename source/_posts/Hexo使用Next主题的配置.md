@@ -715,3 +715,31 @@ canvas_sphere: false
   number: false
 ```
 
+
+
+## 22. 文章头部添加【天气】
+
+打开`\themes\next\layout\_macro\post.swig`，在合适位置加入：
+
+```html
+{% if post.weather%}
+  <span class="post-meta-divider">|</span>
+  <span class="post-meta-item-text">天气：</span>
+  <span>{{ post.weather }}</span>
+{% endif %}
+```
+
+在写博文时，需要在头部新增`weather`字段
+
+```
+title: 
+tags: 
+    - 1
+    - 2
+categories: 
+weather: 晴
+date: 2017-01-13 16:07:32
+copyright: true
+password: 
+```
+
