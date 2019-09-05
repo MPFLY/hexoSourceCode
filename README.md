@@ -26,6 +26,12 @@
 
 ## Installation
 
+注意：
+
+由于`Next`主题自己带有`.git`文件，所以不会跟随整个源文件被提交到github上。
+
+需要将`themes/next_`文件夹中的内容复制到`themes/next`中，随后执行以下命令：
+
 ```
 $ npm install hexo-cli -g
 ```
@@ -56,6 +62,7 @@ title: 文章名称
 tags: 
     - 第1个标签
     - 第2个标签
+weather: 晴
 categories: 文章类别
 date: 2017-01-13 16:07:32
 copyright: true
